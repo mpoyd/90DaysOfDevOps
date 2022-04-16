@@ -63,15 +63,8 @@ This section is also where we are going to capture that feedback wheel about the
 
 Reliability is a key factor here as well, at the end of the day we want our Application to be available all the time it is required. This then lends to other **observability, security and data management** areas that should be continuously monitored and feedback can always be used to better enhance, update and release the application continuously. 
 
-Some input from the community here specifcally [@_ediri](https://twitter.com/_ediri) mentioned also part of this continous process we should also have the FinOps teams involved. Apps & Data are running and stored somewhere you should be monitoring this continously to make sure if things change from a resources point of view your costs are not causing some major financial pain on your Cloud Bills.
-
-I think it is also a good time to bring up the "DevOps Engineer" mentions above, albeit there are many DevOps Engineer positions in the wild that people hold, this is not really the ideal way of positioning the process of DevOps. What I mean is from speaking to others in the community the title of DevOps Engineer should not be the goal for anyone because really any position should be adopting DevOps processes and the culture explained here. DevOps should be used in many different positions such as Cloud-Native engineer/architect, virtualisation admin, cloud architect/engineer, infrastructure admin. This is to name a few but the reason for using DevOps Engineer above was really to highlight the scope or the process used by any of the above positions and more. 
 
 ## Resources 
-
-I am always open to adding additional resources to these readme files as it is here as a learning tool.  
-
-My advice is to watch all of the below and hopefully you also picked something up from the text and explanations above. 
 
 - [Continuous Development](https://www.youtube.com/watch?v=UnjwVYAN7Ns) I will also add that this is focused on manufacturing but the lean culture can be closely followed with DevOps. 
 - [Continuous Testing - IBM YouTube](https://www.youtube.com/watch?v=RYQbmjLgubM)
@@ -80,5 +73,3 @@ My advice is to watch all of the below and hopefully you also picked something u
 - [The Remote Flow](https://www.notion.so/The-Remote-Flow-d90982e77a144f4f990c135f115f41c6)
 - [FinOps Foundation - What is FinOps](https://www.finops.org/introduction/what-is-finops/)
 - [**NOT FREE** The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO)
-
-If you made it this far then you will know if this is where you want to be or not. See you on [Day 4](day04.md).  
