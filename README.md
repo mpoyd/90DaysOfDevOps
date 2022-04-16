@@ -4,9 +4,9 @@
  <img src="logo.png?raw=true" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
 </p>
 
-This repository is used to document my journey on getting a better foundational knowledge of DevOps. I will be starting this journey on the 1st January 2022 but the idea is that we take 90 days which just so happens to be January 1st to March 31st. 
+This repository is used to document my journey on getting a better foundational knowledge of DevOps. I will be starting this journey on the 10th of April 2022 but the idea is that I take 90 days which works out to be from the 10th of April to the 9th of June.
 
-The reason for documenting these days is so that others can take something from it and also hopefully enhance the resources. 
+The main changes from the original 90DaysOfDevOps by MichealCade are the replacement of GO, as a programming language to learn, in favor of Python, as i feel Python is more widely used, other changes include tweaking the explanations in each day to better reflect what i learned.
 
 The goal is to take 90 days, 1 hour a day, to tackle over 13 areas of DevOps to a foundational knowledge. 
 
