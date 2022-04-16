@@ -9,7 +9,6 @@ id: 1048699
 ---
 ## Responsibilities of a DevOps Engineer 
 
-Hopefully you are coming into this off the back of going through the resources and post on [Day1 of #90DaysOfDevOps](day01.md) 
 
 It was briefly touched on in the first post but now we must get deeper into this concept and understand that there are two main parts when creating an application. We have the **Development** part where software developers program the application and test it. Then we have the **Operations** part where the application is deployed and maintained on a server. 
 
@@ -55,13 +54,9 @@ This is where we are going to end this day of learning, hopefully this was usefu
 
 ## Resources 
 
-I am always open to adding additional resources to these readme files as it is here as a learning tool.  
-
-My advice is to watch all of the below and hopefully you also picked something up from the text and explanations above. 
 - [What is DevOps? - TechWorld with Nana](https://www.youtube.com/watch?v=0yWAtQ6wYNM)
 - [What is DevOps? - GitHub YouTube](https://www.youtube.com/watch?v=kBV8gPVZNEE)
 - [What is DevOps? - IBM YouTube](https://www.youtube.com/watch?v=UbtB4sMaaNM)
 - [What is DevOps? - AWS ](https://aws.amazon.com/devops/what-is-devops/)
 - [What is DevOps? - Microsoft](https://docs.microsoft.com/en-us/devops/what-is-devops)
 
-If you made it this far then you will know if this is where you want to be or not. See you on [Day 3](day03.md).  
