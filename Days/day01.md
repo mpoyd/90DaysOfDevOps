@@ -11,19 +11,10 @@ id: 1048731
 
 Day 1 of our 90 days and adventure to learn a good foundational understanding of DevOps and tools that help with a DevOps mindset. 
 
-This learning journey started for me a few years back but my focus then was around virtualisation platforms and cloud based technologies, I was looking mostly into Infrastructure as Code and Application configuration management with Terraform and Chef. 
-
-Fast forward to March 2021, I was given an amazing opportunity to concentrate my efforts around the Cloud Native strategy at Kasten by Veeam. Which was going to be a massive focus on Kubernetes and DevOps and the community surrounding these technologies. I started my learning journey and quickly realised there was a very wide world aside from just learning the fundamentals of Kubernetes and Containerisation and it was then when I started speaking to the community and learning more and more about the DevOps culture, tooling and processes so I started documenting some of the areas I wanted to learn in public. 
-
-[So you want to learn DevOps?](https://blog.kasten.io/devops-learning-curve)
 
 ## Let the journey begin
 
-If you read the above blog you will see this is a high level contents for my learning journey and I will say at this point I am no where near an expert in any of these sections but what I wanted to do was share some resources both FREE and some paid for but an option for both as we all have different circumstances. 
-
-Over the next 90 days I want to document these resources and cover those foundational areas, I would love for the community to also get involved share your journey and resources so we can learn in public and help each other. 
-
-You will see from the opening readme in the project repository that I have split things into sections and it is basically 12 weeks plus 6 days. The first 6 days we will explore the fundamentals of DevOps in general before diving into some of the specific areas, by no way is this list exhaustive and again would love for the community to assist in making this a useful resource. 
+You will see from the opening readme in the project repository that I have split things into sections and it is basically 12 weeks plus 6 days. The first 6 days we will explore the fundamentals of DevOps in general before diving into some of the specific areas.
 
 Another resource I will share at this point that I think everyone should have a good look at and maybe create your own mind map for yourself and your interest and position is the following: 
 
@@ -51,12 +42,8 @@ The final point I will make is to make this as effective and efficient as possib
 
 ## Resources 
 
-I am always open to adding additional resources to these readme files as it is here as a learning tool.  
-
-My advice is to watch all of the below and hopefully you also picked something up from the text and explanations above. 
 
 - [DevOps in 5 Minutes](https://www.youtube.com/watch?v=Xrgk023l4lI)
 - [What is DevOps? Easy Way](https://www.youtube.com/watch?v=_Gpe1Zn-1fE&t=43s)
 - [DevOps roadmap 2022 | Success Roadmap 2022](https://www.youtube.com/watch?v=7l_n97Mt0ko)
 
-If you made it this far then you will know if this is where you want to be or not. See you on [Day 2](day02.md).  
